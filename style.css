@@ -57,6 +57,7 @@ body {
   margin: 0 8px;
 }
 
+
 .navbar .navbar-next i:hover {
   color: chocolate;
 }
@@ -80,7 +81,7 @@ h1 {
 }
 
 h2 {
-  color: chocolate;
+  color: aqua;
   font-weight: bold;
   font-family: "Poppins", sans-serif;
   box-shadow: 2px 2px 20px;
@@ -107,7 +108,13 @@ p {
   padding: 0 20px;
   max-width: 600px;
 }
-
+.pj {
+  color: aqua;
+  text-align: center;
+  font-family: "Poppins", Sans-Serif;
+  font-size: 35px;
+  margin-top: 28%;
+}
 /* PC */
 @media (min-width: 769px) and (max-width: 1336px) {
   html {

@@ -93,6 +93,19 @@ h1 {
   text-align: center;
 }
 
+.contact-me {
+  font-size: 35px;
+  color: blue;
+  font-family: "Poppins", Sans-Serif;
+  box-shadow: 2px 2px 20px lightblue;
+}
+.contact-me span {
+  font-size: 35px;
+  color: aqua;
+  font-family: "Poppins", Sans-Serif;
+}
+
+
 h2 {
   color: aqua;
   font-weight: bold;
@@ -135,6 +148,7 @@ p {
   text-align: center;
   font-family: "Poppins", Sans-Serif;
   box-shadow: 0 0 20px aqua;
+  margin: 10px 10px;
   font-family: "Poppins", sans-serif;
   font-size: 20px;
   margin-top: 15%;
@@ -143,6 +157,8 @@ p {
 .pro {
   box-shadow: 1px 1px 15px lightblue;
   border-bottom: 20%;
+  width: 320px;
+  height: 200px;
   border-radius: 5%;
 }
 /* PC */

@@ -83,6 +83,16 @@ img {
   text-align: center;
   animation: animateText 3s ease-in-out;
 }
+
+.logo-ab {
+  width: 90%;
+  display: block;
+  margin: 100px auto;
+  text-align: center;
+  margin-left: 10%;
+  animation: animateText 3s ease-in-out;
+}
+
 .skill {
   display:inline-block;
   color: white;
@@ -118,16 +128,26 @@ h1 {
   text-align: center;
 }
 
-.contact-me {
-  font-size: 35px;
-  color: blue;
-  font-family: "Poppins", Sans-Serif;
-  box-shadow: 2px 2px 20px lightblue;
+.contact {
+  text-align: center;
+  margin: 100px auto;
+  max-width: 600px;
 }
-.contact-me span {
-  font-size: 35px;
-  color: aqua;
-  font-family: "Poppins", Sans-Serif;
+
+.contact input,
+.contact textarea {
+  display: block;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 10px;
+}
+
+.contact button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
 }
 
 h2 {

@@ -128,27 +128,6 @@ h1 {
   text-align: center;
 }
 
-.contact {
-  text-align: center;
-  margin: 100px auto;
-  max-width: 600px;
-}
-
-.contact input,
-.contact textarea {
-  display: block;
-  margin-bottom: 20px;
-  width: 100%;
-  padding: 10px;
-}
-
-.contact button {
-  background-color: #333;
-  color: #fff;
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
-}
 
 h2 {
   color: aqua;

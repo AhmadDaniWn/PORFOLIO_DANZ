@@ -122,12 +122,15 @@ img {
 h1 {
   color: blue;
   font-family: "Poppins", sans-serif;
-  box-shadow: 2px 2px 20px ;
+  box-shadow: 2px 2px 20px lightblue;
   font-size: 38px;
   margin: -85px auto;
   text-align: center;
 }
-
+h1 span {
+  color: aqua;
+  font-family: "Poppins", Sans-Serif;
+}
 
 h2 {
   color: aqua;

@@ -93,31 +93,20 @@ img {
   animation: animateText 3s ease-in-out;
 }
 
-.skill {
-  display:inline-block;
-  color: white;
-  width:150px;
-  height: 150px;
-  filter: grayscale(100%);
-  margin-top: -17%;
+.sertif {
+  box-shadow: 1px 1px 15px lightblue;
+  border-bottom: 20%;
+  width: 320px;
+  height: 200px;
+  border-radius: 5%;
 }
 
-.skill-css {
-  display:inline-block;
-  color: white;
-  width:177px;
-  height: 163px;
-  filter: grayscale(100%);
-  margin-top: -17%;
+.kuntul {
+  top: -20%;
+  border: 0px 0px 10px aqua;
+  font-family: "Poppins", Sans-Serif;
+  font-size: 25px;
 }
-
-.skill:hover {
-    filter: grayscale(0%);
-  }
-  
-.skill-css:hover {
-    filter: grayscale(0%);
-  }
 
 h1 {
   color: blue;
@@ -175,7 +164,6 @@ p {
   font-family: "Poppins", Sans-Serif;
   box-shadow: 0 0 20px aqua;
   margin: 10px 10px;
-  font-family: "Poppins", sans-serif;
   font-size: 20px;
   margin-top: 15%;
 }
@@ -309,6 +297,22 @@ p {
 
 #github {
   animation-delay: 0.7s;
+}
+
+#facebook:hover {
+  background-color: blue;
+}
+#whatsapp;:hover {
+  background-color: blue;
+}
+#instagram:hover {
+  background-color: blue;
+}
+#youtube:hover {
+  background-color: blue;
+}
+#github:hover {
+  background-color: blue;
 }
 
 @keyframes animate {
